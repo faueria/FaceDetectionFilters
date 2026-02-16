@@ -12,23 +12,45 @@ da2 is outside code that is an example of the depth filter, use this file to tes
 
 ### Controls
 'c' - Color mode
+
 'g' - OpenCV Greyscale mode
+
 'h' - Custom Greyscale mode
+
 's' - Sepia Tone mode
+
 'b' - Blur mode
+
 'x' - Sobel X mode (vertical edges)
+
 'y' - Sobel Y mode (horizontal edges)
+
 'm' - Gradient Magnitude mode
+
 'l' - Blur + Quantize mode (quantizeLevels levels)
+
 'z' - Sobel X + Face Detection mode
+
 'k' - Greyscale Keep Green mode
+
 't' - Sepia Tone Faces mode
+
 'f' - Toggle Face Detection
+
 'd' - Depth Estimation mode
+
 'D' - Toggle Distance Display
+
 '+' - Increase quantization levels
+
 '-' - Decrease quantization levels
+
 'S' - Save current frame
+
 'q' - Quit application
+
 'u' - Sepia + Gradient Magnitude mode
+
 'v' - Blur+Quantize + Gradient Magnitude mode
+
+
